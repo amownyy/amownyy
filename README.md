@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate Java,JavaScript developer from Turkey</h3>
 
@@ -19,6 +18,8 @@
 - 📄 Know about my experiences Predator, AliBey
 
 - ⚡ Fun fact **I think I am funny**
+
+<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
