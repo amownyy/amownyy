@@ -7,7 +7,7 @@ My name is **Emre** and I'm **fourteen** years old and now I'm studying at **Hal
 
 🍎 I am currently learning:
 > - C#, Java, JavaScript
-🤔 I am currently Working on:
+> - 🤔 I am currently Working on:
 > - Minecraft Plugin Code
 > - Develop AliBey Sky
 </br>
