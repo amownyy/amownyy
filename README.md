@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate Java,JavaScript developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 <p align="left"> <a href="https://twitter.com/amowny" target="blank"><img src="https://img.shields.io/twitter/follow/amowny?logo=twitter&style=for-the-badge" alt="amowny" /></a> </p>
 
 - 🔭 I’m currently working on [EliteKeybinds](https://github.com/Amowny/elitekeybinds)
