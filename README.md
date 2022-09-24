@@ -34,4 +34,4 @@
 
 <div style = "float: left" >
 <img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=Amowny&theme=tokyonight" /> 
-<img width = "360px" padding = "10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amowny&theme=tokyonight&layout=compact" />
+<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amowny&theme=tokyonight&layout=compact" />
