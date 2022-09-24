@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **emre0gumus8@gmail.com**
 
-- 📄 Know about my experiences [Predator, AliBey](Predator, AliBey)
+- 📄 Know about my experiences Predator, AliBey
 
 - ⚡ Fun fact **I think I am funny**
 
