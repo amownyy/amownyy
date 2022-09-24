@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/amowny" target="blank"><img src="https://img.shields.io/twitter/follow/amowny?logo=twitter&style=for-the-badge" alt="amowny" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+
 - 🔭 I’m currently working on [EliteKeybinds](https://github.com/Amowny/elitekeybinds)
 
 - 🌱 I’m currently learning **Phyton, Php**
@@ -18,8 +20,6 @@
 - 📄 Know about my experiences Predator, AliBey
 
 - ⚡ Fun fact **I think I am funny**
-
-<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
