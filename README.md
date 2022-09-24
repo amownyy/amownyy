@@ -31,3 +31,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/amowny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amowny" /></a></p><br><br>
+
+<div style = "float: left" >
+<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=Amowny&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amowny&theme=tokyonight&layout=compact" />
