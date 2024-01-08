@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emre and I'm a 16 yo Developer, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Emre and I'm a Open Source Developer, from Turkey</h2>
 
 ###
 
